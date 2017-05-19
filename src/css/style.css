@@ -1,0 +1,387 @@
+/* BEGIN Light */
+@font-face {
+  font-family: 'Open Sans';
+  src: url("../fonts/open-sans/Light/OpenSans-Light.eot?v=1.1.0");
+  src: url("../fonts/open-sans/Light/OpenSans-Light.eot?#iefix&v=1.1.0") format("embedded-opentype"), url("../fonts/open-sans/Light/OpenSans-Light.woff2?v=1.1.0") format("woff2"), url("../fonts/open-sans/Light/OpenSans-Light.woff?v=1.1.0") format("woff"), url("../fonts/open-sans/Light/OpenSans-Light.ttf?v=1.1.0") format("truetype"), url("../fonts/open-sans/Light/OpenSans-Light.svg?v=1.1.0#Light") format("svg");
+  font-weight: 300;
+  font-style: normal; }
+/* END Light */
+/* BEGIN Light Italic */
+@font-face {
+  font-family: 'Open Sans';
+  src: url("../fonts/open-sans/LightItalic/OpenSans-LightItalic.eot?v=1.1.0");
+  src: url("../fonts/open-sans/LightItalic/OpenSans-LightItalic.eot?#iefix&v=1.1.0") format("embedded-opentype"), url("../fonts/open-sans/LightItalic/OpenSans-LightItalic.woff2?v=1.1.0") format("woff2"), url("../fonts/open-sans/LightItalic/OpenSans-LightItalic.woff?v=1.1.0") format("woff"), url("../fonts/open-sans/LightItalic/OpenSans-LightItalic.ttf?v=1.1.0") format("truetype"), url("../fonts/open-sans/LightItalic/OpenSans-LightItalic.svg?v=1.1.0#LightItalic") format("svg");
+  font-weight: 300;
+  font-style: italic; }
+/* END Light Italic */
+/* BEGIN Regular */
+@font-face {
+  font-family: 'Open Sans';
+  src: url("../fonts/open-sans/Regular/OpenSans-Regular.eot?v=1.1.0");
+  src: url("../fonts/open-sans/Regular/OpenSans-Regular.eot?#iefix&v=1.1.0") format("embedded-opentype"), url("../fonts/open-sans/Regular/OpenSans-Regular.woff2?v=1.1.0") format("woff2"), url("../fonts/open-sans/Regular/OpenSans-Regular.woff?v=1.1.0") format("woff"), url("../fonts/open-sans/Regular/OpenSans-Regular.ttf?v=1.1.0") format("truetype"), url("../fonts/open-sans/Regular/OpenSans-Regular.svg?v=1.1.0#Regular") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+/* END Regular */
+/* BEGIN Italic */
+@font-face {
+  font-family: 'Open Sans';
+  src: url("../fonts/open-sans/Italic/OpenSans-Italic.eot?v=1.1.0");
+  src: url("../fonts/open-sans/Italic/OpenSans-Italic.eot?#iefix&v=1.1.0") format("embedded-opentype"), url("../fonts/open-sans/Italic/OpenSans-Italic.woff2?v=1.1.0") format("woff2"), url("../fonts/open-sans/Italic/OpenSans-Italic.woff?v=1.1.0") format("woff"), url("../fonts/open-sans/Italic/OpenSans-Italic.ttf?v=1.1.0") format("truetype"), url("../fonts/open-sans/Italic/OpenSans-Italic.svg?v=1.1.0#Italic") format("svg");
+  font-weight: normal;
+  font-style: italic; }
+/* END Italic */
+/* BEGIN Semibold */
+@font-face {
+  font-family: 'Open Sans';
+  src: url("../fonts/open-sans/Semibold/OpenSans-Semibold.eot?v=1.1.0");
+  src: url("../fonts/open-sans/Semibold/OpenSans-Semibold.eot?#iefix&v=1.1.0") format("embedded-opentype"), url("../fonts/open-sans/Semibold/OpenSans-Semibold.woff2?v=1.1.0") format("woff2"), url("../fonts/open-sans/Semibold/OpenSans-Semibold.woff?v=1.1.0") format("woff"), url("../fonts/open-sans/Semibold/OpenSans-Semibold.ttf?v=1.1.0") format("truetype"), url("../fonts/open-sans/Semibold/OpenSans-Semibold.svg?v=1.1.0#Semibold") format("svg");
+  font-weight: 600;
+  font-style: normal; }
+/* END Semibold */
+/* BEGIN Semibold Italic */
+@font-face {
+  font-family: 'Open Sans';
+  src: url("../fonts/open-sans/SemiboldItalic/OpenSans-SemiboldItalic.eot?v=1.1.0");
+  src: url("../fonts/open-sans/SemiboldItalic/OpenSans-SemiboldItalic.eot?#iefix&v=1.1.0") format("embedded-opentype"), url("../fonts/open-sans/SemiboldItalic/OpenSans-SemiboldItalic.woff2?v=1.1.0") format("woff2"), url("../fonts/open-sans/SemiboldItalic/OpenSans-SemiboldItalic.woff?v=1.1.0") format("woff"), url("../fonts/open-sans/SemiboldItalic/OpenSans-SemiboldItalic.ttf?v=1.1.0") format("truetype"), url("../fonts/open-sans/SemiboldItalic/OpenSans-SemiboldItalic.svg?v=1.1.0#SemiboldItalic") format("svg");
+  font-weight: 600;
+  font-style: italic; }
+/* END Semibold Italic */
+/* BEGIN Bold */
+@font-face {
+  font-family: 'Open Sans';
+  src: url("../fonts/open-sans/Bold/OpenSans-Bold.eot?v=1.1.0");
+  src: url("../fonts/open-sans/Bold/OpenSans-Bold.eot?#iefix&v=1.1.0") format("embedded-opentype"), url("../fonts/open-sans/Bold/OpenSans-Bold.woff2?v=1.1.0") format("woff2"), url("../fonts/open-sans/Bold/OpenSans-Bold.woff?v=1.1.0") format("woff"), url("../fonts/open-sans/Bold/OpenSans-Bold.ttf?v=1.1.0") format("truetype"), url("../fonts/open-sans/Bold/OpenSans-Bold.svg?v=1.1.0#Bold") format("svg");
+  font-weight: bold;
+  font-style: normal; }
+/* END Bold */
+/* BEGIN Bold Italic */
+@font-face {
+  font-family: 'Open Sans';
+  src: url("../fonts/open-sans/BoldItalic/OpenSans-BoldItalic.eot?v=1.1.0");
+  src: url("../fonts/open-sans/BoldItalic/OpenSans-BoldItalic.eot?#iefix&v=1.1.0") format("embedded-opentype"), url("../fonts/open-sans/BoldItalic/OpenSans-BoldItalic.woff2?v=1.1.0") format("woff2"), url("../fonts/open-sans/BoldItalic/OpenSans-BoldItalic.woff?v=1.1.0") format("woff"), url("../fonts/open-sans/BoldItalic/OpenSans-BoldItalic.ttf?v=1.1.0") format("truetype"), url("../fonts/open-sans/BoldItalic/OpenSans-BoldItalic.svg?v=1.1.0#BoldItalic") format("svg");
+  font-weight: bold;
+  font-style: italic; }
+/* END Bold Italic */
+/* BEGIN Extrabold */
+@font-face {
+  font-family: 'Open Sans';
+  src: url("../fonts/open-sans/ExtraBold/OpenSans-ExtraBold.eot?v=1.1.0");
+  src: url("../fonts/open-sans/ExtraBold/OpenSans-ExtraBold.eot?#iefix&v=1.1.0") format("embedded-opentype"), url("../fonts/open-sans/ExtraBold/OpenSans-ExtraBold.woff2?v=1.1.0") format("woff2"), url("../fonts/open-sans/ExtraBold/OpenSans-ExtraBold.woff?v=1.1.0") format("woff"), url("../fonts/open-sans/ExtraBold/OpenSans-ExtraBold.ttf?v=1.1.0") format("truetype"), url("../fonts/open-sans/ExtraBold/OpenSans-ExtraBold.svg?v=1.1.0#ExtraBold") format("svg");
+  font-weight: 800;
+  font-style: normal; }
+/* END Extrabold */
+/* BEGIN Extrabold Italic */
+@font-face {
+  font-family: 'Open Sans';
+  src: url("../fonts/open-sans/ExtraBoldItalic/OpenSans-ExtraBoldItalic.eot?v=1.1.0");
+  src: url("../fonts/open-sans/ExtraBoldItalic/OpenSans-ExtraBoldItalic.eot?#iefix&v=1.1.0") format("embedded-opentype"), url("../fonts/open-sans/ExtraBoldItalic/OpenSans-ExtraBoldItalic.woff2?v=1.1.0") format("woff2"), url("../fonts/open-sans/ExtraBoldItalic/OpenSans-ExtraBoldItalic.woff?v=1.1.0") format("woff"), url("../fonts/open-sans/ExtraBoldItalic/OpenSans-ExtraBoldItalic.ttf?v=1.1.0") format("truetype"), url("../fonts/open-sans/ExtraBoldItalic/OpenSans-ExtraBoldItalic.svg?v=1.1.0#ExtraBoldItalic") format("svg");
+  font-weight: 800;
+  font-style: italic; }
+/* END Extrabold Italic */
+body{
+  font-family: 'Open Sans'
+}
+.large-icons {
+			font-size:xx-large;
+		}
+		.tab-container {
+			width:20%;
+			float:left;
+			background-color: #EDEDED;
+		}
+		.grey-color {
+			background-color: #EDEDED;
+			float: left;
+			width: 99%;
+			padding: 10px;
+		}
+		.line-border {
+			border: 1px dotted black;
+			height: 64px;
+			float: left;
+			margin-top: 10px;
+		}
+		.toggle-bar {
+			background-color:#F981A5;
+			height:15px;
+			margin-left:-15px;
+			margin-right:-15px;
+		}
+		.arrows {
+			width: 35px;
+			height: 35px;
+			border-radius: 50%;
+			background-color: #F981A5;
+			margin: auto;
+			position: relative;
+			top: -10px;
+		}
+		.down-arrow {
+			top: 10px;
+			left: 10px;
+			color: white
+		}
+		.pink-bgcolor{
+			background-color:#F981A5 !important;
+			border-color:#F981A5;
+			color:white !important;
+		}
+		.violet-bgcolor {
+			background-color: #655BA0;
+			color: white !important;
+		}
+		.pink-color{
+			color:#F981A5;
+		}
+		.header {
+			padding:5px;
+		}
+		.header-color{
+			background-color:#F9F9F9;
+		}
+		.header .pull-left, .header .pull-right {
+			padding-right: 15px;
+			padding-left: 15px;
+		}
+		.logo {
+			height: 50px;
+			width: 260px;
+			margin-bottom: 5px;
+		}
+		.logo-header {
+			margin-top:15px;
+		}
+		.logo-header .input-group-btn .btn {
+			padding:10px 12px;
+		}
+		.logo-header input.form-control {
+			height: 42px;
+		}
+		#bs-example-navbar-collapse-1 {
+			background-color:#655BA0;
+		}
+		.nav-container {
+			margin-right: -15px;
+			margin-left: -15px;
+		}
+		.nav-container a.navbar-brand.pink-bgcolor {
+			color:white;
+		}
+		.list-container{
+			padding:10px 15px;
+			background-color: #655BA0;
+			font-style: normal;
+		}
+		.list-menu {
+			font-style: italic;
+			color: grey;
+		}
+		.list-menu ul li .badge{
+			color: grey;
+			background-color: transparent;
+			font-size: 15px;
+		}
+		.design-row{
+      display: inline-block;
+      padding: 5px;
+      font-weight: bold;
+      color: grey;
+		}
+		.nav-container.navbar-default .navbar-nav>li {
+			padding: 5px;
+		}
+		.nav-container.navbar-default .navbar-nav>li>a {
+			color: white;
+			border-right: 1px solid white; 
+			padding-top:10px;
+			padding-bottom: 10px; 
+		}
+		.nav-container.navbar-default .navbar-nav li:last-of-type a{
+			border-right: none;
+		}
+
+		.nav-container.navbar-default .navbar-nav>li>a:active {
+			color: #F981A5 !important;
+		}
+		.footer-row {
+			background-color:black;
+			color:white;
+			margin-left:-15px;
+			margin-right:-15px;
+			padding:10px;
+		}
+		.categorie-cell {
+			float:left;
+		}
+		.information-cell h4,.categorie-cell h4 {
+			padding-left:40px;
+		}
+		.information-cell ul li, .categorie-cell ul li{
+			list-style:none;
+		}
+		.information-cell ul, .categorie-cell ul {
+			display: inline-block;
+			vertical-align: top;
+		}
+		.information-cell {
+			float:left;
+		}
+		.location-cell {
+			float:right;
+		}
+		.location-cell h4{
+			padding-left: 40px;
+		}
+		.bottom-area {
+			background-color: #313131;
+			color: white;
+		}
+		.cell1{
+			border-right: 1px solid;
+			padding-right: 15px;
+		}
+		.services .col-md-3{
+				padding:0;
+		}
+		.services {
+			margin:0;
+		}
+		.greyish {
+			background-color:#EDEDED
+		}
+		.featured-produts .col-md-2 {
+			margin:15px
+		}
+    /*#section-id {
+      display: none;
+    }*/
+    .no-margin{
+      margin: 0;
+    }
+    .no-padding{
+      padding: 0;
+    }
+    .color-box {
+      width: 16px;
+      height: 16px;
+      display: inline-block;
+      margin: 3px 2px;
+    }
+    .list-group-colour {
+      list-style: none;
+			padding: 0 2px;
+    }
+    .palette-1{
+      background-color: #1DBE61;
+    }
+    .palette-2{
+      background-color: #DE6C6C;
+    }
+    .palette-3{
+      background-color: #7369BF;
+    }
+    .palette-4{
+      background-color: #F981A5;
+    }
+    .palette-5{
+      background-color: #882E25;
+    }
+    .palette-6{
+      background-color: #D4AF18;
+    }
+    .palette-7{
+      background-color: #E831E3;
+    }
+    .palette-8{
+      background-color: #3C6DFA;
+    }
+    .palette-9{
+      background-color: #FE0809;
+    }
+    .palette-10{
+      background-color: #E3561E;
+    }
+    .palette-11{
+      background-color: #E6960D;
+    }
+    .palette-12{
+      background-color: #A9595A;
+    }
+    .palette-13{
+      background-color: #6E6A69;
+    }
+    .palette-14{
+      background-color: #F19155;
+    }
+    .palette-15{
+      background-color: #19A308;
+    }
+    .palette-16{
+      background-color: #3A4A1B;
+    }
+    .palette-17{
+      background-color: #A73535;
+    }
+    .palette-18{
+      background-color: #E92CBA;
+    }
+    .palette-19{
+      background-color: #BA3232;
+    }
+    .palette-20{
+      background-color: #363636;
+    }
+    .palette-21{
+      background-color: #F05133;
+    }
+    .palette-22{
+      background-color: #1D19E2;
+    }
+    .palette-23{
+      background-color: #35EEE0;
+    }
+    .palette-24{
+      background-color: #B40DF3;
+    }
+		.border-list-group {
+			border: 1px solid #ddd;
+		}
+		.popular-designs{
+			background-color: #EDEDED;
+			margin: 10px 1% 10px 0;
+			padding: 1%;
+			width: 24%
+		}
+		.nopadding-left {
+			padding-left: 0;
+		}
+		.img-text {
+			    padding: 2px 0px 10px 0;
+		}
+		.popular-designs img {
+			width: 100%;
+		}
+		.btn-grey{
+			background-color: #8A8889;
+			color: white;
+			font-weight: bold;
+			padding-left: 30px;
+			padding-right: 30px;
+		}
+		.width99 {
+			width: 99%;
+		}
+		.left-space {
+			padding-left: 156px;
+		}
+		.none {
+			display: none !important;
+		}
+		.view-all {
+			font-size: 14px;
+			line-height: 29px;
+			padding-right: 10px;
+		}
+		.logo-name {
+			color: #8A8889;
+		}
